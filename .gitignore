@@ -1,0 +1,5 @@
+node_moudule/
+.env
+uploads/*
+!uploads/.gitkeep
+.DS_Store
